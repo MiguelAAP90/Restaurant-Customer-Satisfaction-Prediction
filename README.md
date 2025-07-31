@@ -1,4 +1,4 @@
-#Restaurant Customer Satisfaction Prediction
+##Restaurant Customer Satisfaction Prediction
 Project Overview
 This project explores customer satisfaction in the restaurant industry using machine learning classification models. By analyzing synthetic data representing customer interactions and business variables, the goal is to predict satisfaction levels and identify key drivers behind positive and negative experiences.
 
